@@ -19,12 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b48092ab-a9d3-4b4e-9006-6fb15e7a2f1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/J_Prac/Prac01/src/prac/basic/operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J_Prac/Prac01/src/prac_main.java" afterDir="false" />
+    <list default="true" id="7fa0936d-ed53-4e56-8fec-770416c6256d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac/Conditional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/-Java-Practice_Algorithmus.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/out/production/Prac01/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/Prac01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/src/prac/basic/operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/J_Prac/Prac01/src/prac_main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +43,20 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1kiRXIJKWbMNHYLiRaMHRbqOYjC" />
+  <component name="ProjectId" id="1ksmerFwwQqUrL8ICf0WQKSq1pS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,24 +64,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\OneDrive - dongseo.ac.kr\GItHub\-Java-Practice_Algorithmus\J_Prac\Prac01\src\prac" />
-      <recent name="D:\OneDrive - dongseo.ac.kr\GItHub\-Java-Practice_Algorithmus\J_Prac\Prac01\src\basic" />
-    </key>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="-Java-Practice_Algorithmus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b48092ab-a9d3-4b4e-9006-6fb15e7a2f1b" name="Default Changelist" comment="" />
-      <created>1606181465768</created>
+      <changelist id="7fa0936d-ed53-4e56-8fec-770416c6256d" name="Default Changelist" comment="" />
+      <created>1606497772419</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606181465768</updated>
+      <updated>1606497772419</updated>
     </task>
     <servers />
   </component>
@@ -81,21 +102,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1606181810445">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606497825789">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606181810445" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1606181897402">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606497825789" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1606499900505">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606181897402" />
-    <state x="180" y="22" key="new project wizard" timestamp="1606181899372">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606499900505" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1606499900505">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="180" y="22" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606181899372" />
-    <state x="431" y="145" key="search.everywhere.popup" timestamp="1606181470830">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606499900505" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1606499900505">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606181470830" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606499900505" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1606499900505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606499900505" />
+    <state x="339" y="130" key="new project wizard" timestamp="1606498051499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="339" y="130" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606498051499" />
   </component>
 </project>
