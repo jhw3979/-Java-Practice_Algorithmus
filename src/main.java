@@ -1,4 +1,6 @@
 import prac.Conditional;
+import prac.repeat;
+import prac.Conditional_Operator;
 
 public class main {
 
@@ -7,7 +9,7 @@ public class main {
         System.out.println("main메소드 생성");
         System.out.println("Hello world!");
         //패키지 사용
-        Conditional a = new Conditional();
-        a.if_prac();
+        repeat a = new repeat();
+        a.repeat_prac();
     }
 }
