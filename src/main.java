@@ -1,15 +1,16 @@
-import prac.Conditional;
-import prac.repeat;
-import prac.Conditional_Operator;
+import prac.basic;
+import prac.deepening;
+import pack.Calculator;
+import pack.Students;
 
 public class main {
-
     public static void main(String[] args) {
-        //메인메소드 생성
-        System.out.println("main메소드 생성");
-        System.out.println("Hello world!");
         //패키지 사용
-        repeat a = new repeat();
-        a.repeat_prac();
+        deepening a = new deepening();
+        a.class_variable_prac();
+        a.a = 0;
+        a.class_variable_prac();
+        deepening b = new deepening();
+        b.class_variable_prac();
     }
 }
