@@ -1,13 +1,12 @@
-import prac.basic;
-import prac.deepening;
+import prac.*;
 import pack.Calculator;
 import pack.Students;
-import prac.Api;
 
 public class main {
     public static void main(String[] args) {
         //패키지 사용
-        deepening a = new deepening();
-        a.overloading_constructor_prac();
+        Calculater_extends_PI a = new Calculater_extends_PI();
+        a.setValue(1000,50);
+        System.out.println(a.PI);
     }
 }

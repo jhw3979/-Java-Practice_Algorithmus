@@ -1,10 +1,10 @@
 package prac;
-
 import pack.Calculator;
 
 class constructor_prac{
     int a, b;
     int c = 0;
+    static final double PI = 3.14;
 
     public constructor_prac(){}
 
