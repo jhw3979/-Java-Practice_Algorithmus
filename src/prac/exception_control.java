@@ -24,6 +24,22 @@ class C{
     }
 }
 
+class E{
+    void throwArithmeticException(){
+        throw new ArithmeticException();
+    }
+    void throwIOException1(){
+        try {
+            throw new IOException();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    void throwIOException2() throws IOException{
+        throw new IOException();
+    }
+}
+
 public class exception_control{
     public void excp01(){
         Calculater a = new Calculater();
@@ -58,5 +74,8 @@ public class exception_control{
     public void excp03(){
         C a = new C();
         a.run();
+    }
+    public void excp04(){
+
     }
 }

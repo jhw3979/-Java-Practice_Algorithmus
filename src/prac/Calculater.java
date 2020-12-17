@@ -1,5 +1,6 @@
 package prac;
 import prac.Cal;
+import prac.DivideException;
 
 public class Calculater implements Cal{
     int left, right;
@@ -24,11 +25,11 @@ public class Calculater implements Cal{
         System.out.printf("%d - %d = %d\n", this.left, this.right, _subtract());
     }
     public void divide(){
-        if (right == 0){
-            //throw new IllegalArgumentException("두번째 인자의 값은 0이 될 수 없습니다.");
-            System.out.println("두번째 인자의 값은 0이 될 수 없습니다.");
-        } else {
+        try {
             System.out.printf("%d / %d = %d\n", this.left, this.right, _divide());
+            throw new DivideException("두번째 인자의 값은 0이 될 수 없습니다.");
+        } catch (DivideException e) {
+            e.printStackTrace();
         }
     }
     public void multiplication(){
