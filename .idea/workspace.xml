@@ -20,16 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa0936d-ed53-4e56-8fec-770416c6256d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prac/DivideException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac/constantDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac/enumDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Calculater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Calculater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Interface_cal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/exception_control.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/exception_control.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/constantDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/constantDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac/Calculater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac/Calculater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac/exception_control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac/exception_control.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac/constantDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac/constantDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
