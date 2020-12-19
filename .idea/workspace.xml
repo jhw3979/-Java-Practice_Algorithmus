@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa0936d-ed53-4e56-8fec-770416c6256d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prac/GenericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac/enumDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Company.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Fruit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/constantDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/constantDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/GenericDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/GenericDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac/constantDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac/constantDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac/GenericDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.main">
+    <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac.GenericDemo" />
+      <module name="-Java-Practice_Algorithmus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="-Java-Practice_Algorithmus" />
@@ -72,6 +81,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.GenericDemo" />
       </list>
     </recent_temporary>
   </component>
