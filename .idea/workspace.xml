@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa0936d-ed53-4e56-8fec-770416c6256d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/prac/CollectionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/EmployeeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/EmployeeInfo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/GenericDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/GenericDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/StudentInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/StudentInfo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/prac/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac/GenericDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +57,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.main">
     <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">

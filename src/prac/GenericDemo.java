@@ -1,21 +1,42 @@
 package prac;
-
-class StudentInfo{
-    public int grade;
-    StudentInfo(int grade){ this.grade = grade; }
+abstract class Info{
+    public abstract int getLevel();
 }
-class EmployeeInfo{
+class StudentInfo extends Info{
     public int rank;
+
+    StudentInfo(int rank){ this.rank = rank; }
+    public int getLevel(){
+        return this.rank;
+    }
+}
+class EmployeeInfo extends Info{
+    public int rank;
+
     EmployeeInfo(int rank){ this.rank = rank; }
+    public int getLevel(){
+        return this.rank;
+    }
 }
-class Person<T>{
+class Person<T extends Info, S> {
     public T info;
-    Person(T info){ this.info = info; }
+    public S id;
+
+    Person(T info, S id) {
+        this.info = info;
+        this.id = id;
+    }
+
+    public <U> void printInfo(U info) {
+        System.out.println(info);
+    }
 }
+
 public class GenericDemo{
     public void run() {
-        Person<EmployeeInfo> p1 = new Person<EmployeeInfo>(new EmployeeInfo(1));
-        EmployeeInfo ei1 = p1.info;
-        System.out.println(ei1.rank); // 성공
+        EmployeeInfo e = new EmployeeInfo(1);
+        Integer i = new Integer(10);
+        Person p1 = new Person(e, i);
+        p1.printInfo(e);
     }
 }
