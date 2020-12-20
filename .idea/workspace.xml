@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa0936d-ed53-4e56-8fec-770416c6256d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prac/CollectionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/EmployeeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/EmployeeInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/GenericDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/GenericDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/StudentInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/StudentInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac/GenericDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac/CollectionDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
