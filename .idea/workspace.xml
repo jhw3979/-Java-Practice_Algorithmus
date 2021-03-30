@@ -20,9 +20,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa0936d-ed53-4e56-8fec-770416c6256d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/prac/Interface_prac/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac/Interface_prac/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac/Interface_prac/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac/Interface_prac/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac/Interface_prac/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac/Interface_prac/setting.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/pack/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/pack/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/pack/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/pack/Students.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Abstract_Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Api.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/ArrayListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Cal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Calculater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Calculater_extends_PI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/CollectionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Company_e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/DivideException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Division_overriding_Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Division_super_Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/EmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Fruit_e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/GenericDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/HashMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/HashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Interface_Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/StudentInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/Subtraction_Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/_B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/access_modifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/constantDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/constructor_prac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/deepening.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/enumDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/exception_control.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/-Java-Practice_Algorithmus/prac/sum_overriding_Calculator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac/CollectionDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +99,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="prac.Interface_prac" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.main">
     <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -76,6 +140,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
@@ -91,8 +166,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606497772419</updated>
+      <workItem from="1616978614323" duration="9445000" />
+      <workItem from="1617041133616" duration="1832000" />
+      <workItem from="1617084303831" duration="1458000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
